@@ -8,7 +8,11 @@
 - ne rien expliquer
 
 # Documentation :
-http://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_excel.html
-http://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.html
-https://docs.scipy.org/doc/scipy-0.16.1/reference/generated/scipy.stats.chi2_contingency.html
-http://pandas.pydata.org/pandas-docs/version/0.18.1/visualization.html
+http://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_excel.html    
+
+http://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.html    
+
+https://docs.scipy.org/doc/scipy-0.16.1/reference/generated/scipy.stats.chi2_contingency.html       
+
+http://pandas.pydata.org/pandas-docs/version/0.18.1/visualization.html      
+
