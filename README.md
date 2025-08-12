@@ -4,5 +4,5 @@
 
 # My Data Analysis Project at Polytech Lyon
 
-See the [final version](Projet(3)(1)(1))
+See the [final version](Projet_VF.ipynb)
 Mainly Data Analysis & Principal component analysis.
